@@ -1,2 +1,2 @@
 # VisulaizacionGr2
-prueba 1 de 
+Prueba de repositorio 
